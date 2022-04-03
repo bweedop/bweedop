@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+I like solving problems. Nowadays, I'm usually solving problems that involve computing systems, websites, and coffee.
+
+Check out my resume [here](https://github.com/bweedop/bweedop/raw/main/kbweedopResume.pdf) 
 
 <!--
 **bweedop/bweedop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
